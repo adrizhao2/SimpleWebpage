@@ -11,10 +11,10 @@ body{
 }
 
 .button{
-    background-color: #A63C4F;
+    background-color: #8C2232;
 }
 .button:hover {
-    background-color: #3e3c3c;
+    background-color: #DBCCA4;
     color:#F2F2F2;
   }
 
@@ -59,7 +59,7 @@ h1{
 a{
   text-decoration:none;
   letter-spacing:1px;
-  color:#A63C4F;
+  color:#8C2232;
   border-bottom: solid 1px rgba(0,0,0,.25);
   position: relative;
 }
